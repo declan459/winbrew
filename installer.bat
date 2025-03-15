@@ -21,8 +21,8 @@ goto :choice
 cd C:/
 mkdir WinBrew
 cd Winbrew
-curl -L -o C:\main.bat https://raw.githubusercontent.com/declan459/winbrew/refs/heads/main/apps/main.bat
-curl -L -o C:\main.bat https://raw.githubusercontent.com/declan459/winbrew/refs/heads/main/apps/main.bat
+curl -L -o C:\winbrew\main.bat https://raw.githubusercontent.com/declan459/winbrew/refs/heads/main/apps/main.bat
+curl -L -o C:\winbrew\finished.html https://raw.githubusercontent.com/declan459/winbrew/refs/heads/main/index.html
 pause
 exit
 
