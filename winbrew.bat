@@ -18,7 +18,10 @@ goto :choice
 
 :y
 
-echo "Your installer will now "
+cd C:/
+mkdir WinBrew
+cd Winbrew
+curl -L -o C:\softwarename.bat (url)
 pause
 exit
 
