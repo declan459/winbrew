@@ -18,3 +18,9 @@ Currently, There is no non curl copy, but it's in progress
 <h1>Do I Believe This Is A Skid Software?🖥️</h1>
 
 Even as the owner I believe this software looks and acts a bit like a skid (Script Kiddy)
+
+<h1>Social Media</h1>
+
+https://placeholder.com
+
+https://example.com
