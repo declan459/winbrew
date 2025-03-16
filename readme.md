@@ -19,7 +19,7 @@ Currently, There is no non curl copy, but it's in progress
 
 Even as the owner I believe this software looks and acts a bit like a skid (Script Kiddy)
 
-<h1>Social Media</h1>
+<h1>Social Media 📱</h1>
 
 https://placeholder.com
 
