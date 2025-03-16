@@ -11,6 +11,10 @@ To download WinBrew go to
 
 https://winbrew.github.io
 
-<h1>How To Install On A School Computer That Blocks Curl?</h1>
+<h1>How To Install On A School Computer That Blocks Curl? 🏫</h1>
 
 Currently, There is no non curl copy, but it's in progress
+
+<h1>Do I Believe This Is A Skid Software?🖥️</h1>
+
+Even as the owner I believe this software looks and acts a bit like a skid (Script Kiddy)
